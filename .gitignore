@@ -179,3 +179,9 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+/dbt_Fundamentals/analyses
+dbt-key-auth.ppk
+dbt_Fundamentals/DBT Installation Commands.txt
+dbt_Fundamentals/dbt_project.yml
+/dbt_Fundamentals/macros
+/test-dbt-install

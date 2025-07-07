@@ -1,0 +1,20 @@
+////If you don't have snowflake and snowflake connector installed in your system. Install this in your code editor before executing script to load the data into the Snowflake
+
+pip install snowflake
+
+pip install snowflake-connector-python
+
+pip install pandas
+
+
+///If you already have snowflake-connector and snowflake installed in your system, but still facing error - No module named 'snowflake.connector'; 'snowflake' is not a package, follow these steps:
+
+pip uninstall snowflake
+
+pip install snowflake-connector-python
+
+pip install pandas
+
+
+
+
